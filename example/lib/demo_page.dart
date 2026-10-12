@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:native_glass_navbar/native_glass_navbar.dart';
 
 class DemoPage extends StatefulWidget {
